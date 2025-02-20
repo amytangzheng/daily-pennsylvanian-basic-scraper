@@ -1,0 +1,1 @@
+The cron expression `0 20 * * *` means the job runs at **8:00 PM UTC every day**. The five fields represent **minute (0), hour (20), day of the month (*), month (*), and day of the week (*)**, ensuring the job executes daily at the same time.
